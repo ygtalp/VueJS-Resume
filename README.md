@@ -3,9 +3,9 @@
   <h1 align="center">Resume</h1>
 </p>
 
-
+Components
 <ul>
-  <li>Components</li>
+
   <li>toptop.vue</li>
   <li>profile.vue</li>
   <li>experiences.vue</li>
