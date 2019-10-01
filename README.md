@@ -14,3 +14,5 @@ Components
   <li><a href="https://github.com/ygtalp/VueJS-Resume/blob/master/src/components/contact.vue" target="_blank">contact.vue</a></li>
 
 </ul>
+
+## I wanted to develop something with Vue.js. I developed such a site for the project.
