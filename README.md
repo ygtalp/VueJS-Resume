@@ -17,4 +17,3 @@
 
 </ul>
 
-#### I wanted to develop something with Vue.js. I developed such a site for the project.
