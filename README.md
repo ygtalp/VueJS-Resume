@@ -3,4 +3,9 @@
   <h1 align="center">Resume</h1>
 </p>
 
-# Resume website
+Components: - toptop.vue
+            - profile.vue
+            - experiences.vue
+            - abilities.vue
+            - projects.vue
+            - contact.vue
