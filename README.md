@@ -3,7 +3,7 @@
   <h1 align="center">Resume</h1>
 </p>
 
-Components: * toptop.vue
+Components * toptop.vue
             * profile.vue
             * experiences.vue
             * abilities.vue
