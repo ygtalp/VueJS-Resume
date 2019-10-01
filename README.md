@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/ygtalp/VueJS-Resume/blob/master/favicon.png">
-  <h1 align="center">Resume <a href="yigitalpunal.com">yigitalpunal</a></h1>
+  <h1 align="center">Resume &rarr; <a href="yigitalpunal.com">yigitalpunal</a></h1>
 </p>
 
 Components
