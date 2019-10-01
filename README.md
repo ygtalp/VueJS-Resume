@@ -3,6 +3,18 @@
   <h1 align="center">Resume</h1>
 </p>
 
+
+<ul>
+  <li>Components</li>
+  <li>toptop.vue</li>
+  <li>profile.vue</li>
+  <li>experiences.vue</li>
+  <li>abilities.vue</li>
+  <li>projects.vue</li>
+  <li>contact.vue</li>
+
+</ul>
+
 Components * toptop.vue
             * profile.vue
             * experiences.vue
