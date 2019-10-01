@@ -1,5 +1,5 @@
 # site
-[yigitalpunal.com](/src/view/favicon.png)
+[yigitalpunal.com](favicon.png)
 > ygt
 
 ## Build Setup
