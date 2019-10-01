@@ -14,10 +14,3 @@ Components
   <li>contact.vue</li>
 
 </ul>
-
-Components * toptop.vue
-            * profile.vue
-            * experiences.vue
-            * abilities.vue
-            * projects.vue
-            * contact.vue
