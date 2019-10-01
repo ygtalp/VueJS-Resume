@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/ygtalp/VueJS-Resume/blob/master/favicon.png">
-  <h1 align="center">Resume <a href="yigitalpunal.com">yigitalpunal</a></h1>
+  <h1 align="center">Resume <a href="http://yigitalpunal.com">yigitalpunal</a></h1>
 </p>
 
 #### I wanted to develop something with Vue.js. I developed such a site for the project.
