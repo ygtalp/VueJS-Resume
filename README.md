@@ -1,3 +1,3 @@
 # site
-[yigitalpunal.com](favicon.png)
+![yigitalpunal.com](https://github.com/ygtalp/VueJS-Resume/favicon.png)
 
