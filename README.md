@@ -3,7 +3,9 @@
   <h1 align="center">Resume &rarr; <a href="yigitalpunal.com">yigitalpunal</a></h1>
 </p>
 
-Components
+#### I wanted to develop something with Vue.js. I developed such a site for the project.
+
+## Components
 <ul>
 
   <li><a href="https://github.com/ygtalp/VueJS-Resume/blob/master/src/components/toptop.vue" target="_blank">toptop.vue</a></li>
