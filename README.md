@@ -6,7 +6,7 @@
 Components
 <ul>
 
-  <li>toptop.vue</li>
+  <li><a href="https://github.com/ygtalp/VueJS-Resume/blob/master/src/components/toptop.vue" >toptop.vue</li>
   <li>profile.vue</li>
   <li>experiences.vue</li>
   <li>abilities.vue</li>
