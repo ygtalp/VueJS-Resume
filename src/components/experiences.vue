@@ -78,7 +78,7 @@
 		<div class="col-md-4">
 			<h4>Remote</h4>
 			<p class="experience-period">
-				Sep 2018				- 
+				Dec 2018				- 
 				Current		</p>
 		</div>
 		<div class="col-md-8">
@@ -104,6 +104,35 @@
 		</div>
 	</div>
 
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>İyi Fikir İnteraktif Teknolojiler</h4>
+			<p class="experience-period">
+				Sep 2016				- 
+				Nov 2018		</p>
+		</div>
+		<div class="col-md-8">
+			<p>
+				<strong>Fulltime - Developer</strong>
+				<span class="hidden-phone">
+					iyifikir is a company that develops applications for municipal institutions. I worked in that company to develop mobile applications by using React and also joined web projects when its necessary.				</span>
+				<span class="experience-details">
+					<span class="location">
+						<span class="glyphicon glyphicon-map-marker"></span>
+						<a href="https://www.google.com/search?q=eskisehir" target="_blank">Eskisehir</a>	</span>
+					
+										
+					<span class="seperator">|</span>
+					<span class="link">
+						<span class="glyphicon glyphicon-link"></span>
+						<a href="http://www.iyifikirlabs.com/" target="_blank">iyifikirlabs.com</a>
+					</span>
+					
+										
+				</span>
+			</p>
+		</div>
+	</div>
 
 
 
