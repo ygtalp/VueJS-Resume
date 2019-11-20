@@ -33,6 +33,38 @@
 
 </div>
 
+	<hr>
+
+<h2>References</h2>
+	<div class="row">
+		
+	<div class="col-md-6">
+		<ul class="no-bullets">
+		
+			<li>
+				<a href="mailto:ayhanuslu@iyifikirlabs.com">
+					<span class="icon icon-email"></span>
+					<span>
+						ayhanuslu@iyifikirlabs.com				</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="col-md-6">
+		<ul class="no-bullets">
+		
+			<li>
+				<a href="tel:05412952277">
+				
+					<span style="margin-left:50px">
+						05412952277				</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	</div>
+
 <hr>
 <p class="lead" style="font-size: 15px">© {{ new Date().getFullYear() }} Yigit Alp Unal	</p>
 		</div>
