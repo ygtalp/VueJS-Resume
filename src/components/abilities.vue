@@ -299,7 +299,28 @@
 				</span>
 			</li>
 			
-			
+			<li>
+				<span class="ability-title">Laravel</span>
+				<span class="ability-score">
+				
+								
+					<span class="glyphicon glyphicon-star filled"></span>
+					
+								
+					<span class="glyphicon glyphicon-star filled"></span>
+					
+								
+					<span class="glyphicon glyphicon-star filled"></span>
+					
+								
+					<span class="glyphicon glyphicon-star"></span>
+					
+								
+					<span class="glyphicon glyphicon-star"></span>
+					
+									
+				</span>
+			</li>
 			
 						
 			<li>
@@ -720,7 +741,11 @@
 		</ul>
 	</div>
 	
-	</div>			</div>
+	</div>			
+	
+	
+	
+	</div>
 		</div>
 </template>
 
